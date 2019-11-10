@@ -10,5 +10,5 @@ author_profile: true
 Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation.
 Anonymous, under review ICLR 2020.
 
-Thompson Sampling via Local Uncertainty.
+Thompson Sampling via Local Uncertainty. 
 Anonymous, under review AISTATS 2020. [pdf](https://arxiv.org/abs/1910.13673)
