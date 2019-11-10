@@ -1,16 +1,15 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Pre-Prints
 
-{% include base_path %}
+Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation
+Anonymous, under review ICLR 2020
+pdf
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Thompson Sampling via Local Uncertainty
+Anonymous, under review AISTATS 2020
+[pdf](https://arxiv.org/abs/1910.13673)
