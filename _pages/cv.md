@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Tongji University, 2014
+* Exchange Student, University of California, Berkeley, 2018
+* M.S. in Data Science, Columbia University, 2019 (expected)
 
-Work experience
+## Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019: Research Assistant
+  * The University of Texas, Austin
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+## Skills
 ======
 * Skill 1
 * Skill 2
