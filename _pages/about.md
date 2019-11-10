@@ -18,9 +18,11 @@ In the second project, we proposed a new probabilistic modeling framework for Th
 
 Currently, I am still doing research on introducing uncertainty into policy gradient method of reinforcement learning, in order to help models achieve better exploration and converge to better local optimal.
 
-I have a good background in Statistics and Computer science, and my research interests include:
-Bayesian deep learning
-natural language processing
-reinforcement learning. 
+I have a good background in Statistics and Computer science, and my research interests include most of the machine learning areas:
+
+- Bayesian Deep Learning
+- Natural Language Processing
+- Reinforcement Learning
+- Computer Vision
 
 
