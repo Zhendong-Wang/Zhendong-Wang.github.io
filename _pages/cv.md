@@ -40,8 +40,8 @@ comparison to current state-of-the-arts baselines, which leverages the global va
   * Found that local uncertainty based framework can capture the underlying uncertainty in data well, 
 and achieved state-of-the-arts performance, while having low computational complexity.  
 
-Fall 2019: Capstone Research Project	
-*Institute of Data Science, Columbia University*  
+Fall 2019: Capstone Research Project	  
+*Institute of Data Science, Columbia University*    
 * Topic: Superresolution and Prediction of Ocean Sea-Surface Temperature  
   * Preprocessed ocean temperature image data into applicable deep learning format.  
   * Implemented the proposed Super Resolution Generative Adversarial Network (SRGAN).  
