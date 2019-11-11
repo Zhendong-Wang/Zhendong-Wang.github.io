@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Details is in [CV](../files/cv.pdf).  
 
 ## Education
 
@@ -16,6 +17,7 @@ redirect_from:
 * M.S. in Data Science, Columbia University, 2019 (expected)
 
 ## Research Experience
+
 Summer 2019: Graduate Research Assistant  
 *Department of Statistics & Data Science, University of Texas, Austin*  
 * Topic 1: Correlated MC for Categorical Sequence Generation  
@@ -54,13 +56,8 @@ Fall 2019: Capstone Research Project
   
 ## Teaching
 
-Course Assistant, Personalization Theory and Application	Fall 2019
-*Institute of Data Science, Columbia University*  
-  * Hold office hour and Piazza question answering to help students accomplish homeworks and 
-understand course materials better.
-  * Assisted instructor in grading course assignments and final project to monitor student learning. 
+Fall 2019: Course Assistant, Personalization Theory and Application  
+*Institute of Data Science, Columbia University*
+* Hold office hour and Piazza question answering to help students accomplish homeworks and understand course materials better.
+* Assisted instructor in grading course assignments and final project to monitor student learning. 
 
-  
-## Service and leadership
-
-* Currently signed in to 43 different slack teams
