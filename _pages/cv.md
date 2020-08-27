@@ -12,9 +12,23 @@ Details is in [CV](../files/cv.pdf).
 
 ## Education
 
-* B.S. in Civil Engineering, Tongji University, 2014
+* PhD in Statistics & Data Science, The University of Texas, Austin, 2020
+* M.S. in Data Science, Columbia University, 2019
 * Exchange Student, University of California, Berkeley, 2018
-* M.S. in Data Science, Columbia University, 2019 (expected)
+* B.S. in Civil Engineering, Tongji University, 2014
+
+## Pulications
+
+* Zhendong Wang and Mingyuan Zhou. 
+Thompson Sampling via Local Uncertainty. 
+In International Conference on Machine Learning, 2020. 
+* Xinjie Fan, Yizhe Zhang, Zhendong Wang and Mingyuan Zhou. 
+Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation. 
+In International Conference on Learning Representations, 2020.
+* Anonymous*, Zhendong Wang* and Anonymous.
+Implicit Distributional Reinforcement Learning. 
+In Neural Information Processing Systems, 2020 (Under Review).
+
 
 ## Research Experience
 
@@ -60,4 +74,46 @@ Fall 2019: Course Assistant, Personalization Theory and Application
 *Institute of Data Science, Columbia University*
 * Hold office hour and Piazza question answering to help students accomplish homeworks and understand course materials better.
 * Assisted instructor in grading course assignments and final project to monitor student learning. 
+
+## Projects
+
+Text generation with GAN, Natural Language Processing in CU	Spring 2019
+* Implemented base GAN structure, generator and discriminator, for text generation in Tensorflow.
+*	Employed transformer with attention involved as generator to improve performance. 
+*	Applied Conditional GAN (CGAN) to text migration tasks. 
+
+Visual Navigation by Deep Reinforcement Learning, Reinforcement Learning in CU	Fall 2018
+*	Used AI2THOR simulator to establish reinforcement learning environments.
+*	Implemented deep-siamese network by Tensorflow. 
+*	Implemented A3C method with python and got excellent convergence with only image inputs.
+*	Achieved scene and target generalization in indoor-navigation.
+
+Bayesian Clustering, Bayesian Method Machine Learning in CU	Fall 2018
+*	Used EM algorithm and Variational Inference algorithm to cluster data.
+*	Implemented Bayesian nonparametric Gibbs sampler to cluster data.
+*	Implemented simple version LDA model.
+
+Columbia Data Science Hackathon 2018, CU	Fall 2018
+*	Cleaned and explored Bitcoin related dataset (Reddit comment data and BTC transaction data).
+*	Analyzed the polarity of Bitcoin comments by NLP tools.
+*	Analyzed the relationship between comment polarity and tendency of Bitcoin price.
+
+Humana Healthcare Analytics 2018 Case Competition, CU	Fall 2018
+*	Cleaned and explored data related to patients’ history and AMI disease record.
+*	Built machine learning models and implemented the models by Scikit-Learn tools.
+*	Obtained business recommendation according to the result of machine learning prediction.
+
+Weather Events Data Analysis, Data Visualization in CU	Fall 2018
+*	Used R-Studio to clean the data and analyze the relationship between variables.
+*	Visualized the result in R-Studio by ggplot, d3 and shiny app. 
+
+Game Developments, Data Structures in UCB  	Fall 2017
+*	Developed 2048 Game with Java.
+*	Visualized the game process and analyzed the stability of the game with 1000 tests.
+*	Designed simple AI by game tree theory and developed Qirkat chess game.
+*	Compared the speed of AI by AI contests.
+
+Database Management System Development, Data Structure in UCB  	Fall 2017
+*	Described command syntax according to SQL syntax. 
+*	Implemented commands including 'create', 'exit', 'insert', 'load', 'print', 'store', 'select' and 'quit'.
 
