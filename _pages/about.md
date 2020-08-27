@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at Data Science Institute of Columbia University, majoring in data science. Before coming to Columbia, I studied as an exchange student in the University of California, Berkeley, for one year, and I received my Bachelor degree from Tongji University in China. 
+I am a first year PhD student in the department of Statistics & Data Science of the University of Texas, Austin. Before coming to UT, I completed my Master degree at Columbia University, majoring in Data Science. I received my Bachelor degree in Civil Engineering from Tongji University in China, during which I went to the University of California, Berkeley for one year exchange study. 
 
-Fortunately, I did research with professor Mingyuan Zhou, at the University of Texas, Austin, and we focused a lot on Bayesian deep learning, and reinforcement learning. 
+Currently, I am supervised by professor Mingyuan Zhou, at the University of Texas, Austin, and we focused a lot on Bayesian deep learning, and reinforcement learning. 
 
 In the first project, we used reinforcement learning to refine categorical sequence generation models. However, high gradient variance hinders the practical use of this method. To stabilize this method for contextual generation of categorical sequences, we estimated the gradient by evaluating a set of correlated Monte Carlo rollouts. Our proposed models yield lower gradient variance and consistent improvement over related baselines. This work is under review of ICLR 2020, and we already received good reviews from ICLR. 
 
@@ -18,11 +18,9 @@ In the second project, we proposed a new probabilistic modeling framework for Th
 
 Currently, I am still doing research on introducing uncertainty into policy gradient method of reinforcement learning, in order to help models achieve better exploration and converge to better local optimal.
 
-I have a good background in Statistics and Computer science, and my research interests include most of the machine learning areas:
+I have a good background in Statistics and Computer science, and my research interests include the following areas:
 
 - Bayesian Deep Learning
-- Natural Language Processing
 - Reinforcement Learning
-- Computer Vision
 
 
