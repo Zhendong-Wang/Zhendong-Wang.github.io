@@ -7,12 +7,12 @@ author_profile: true
 
 ## Pre-Prints
 
-[Implicit Distributional Reinforcement Learning](https://arxiv.org/abs/2007.06159)  
-Yuguang Yue*, Zhendong Wang*, and Mingyuan Zhou  
-arXiv preprint arXiv:2007.06159, July 2020. (the first two authors contributed equally)  
-
 
 ## Publications
+
+[Implicit Distributional Reinforcement Learning](https://arxiv.org/abs/2007.06159)  
+Yuguang Yue*, Zhendong Wang*, and Mingyuan Zhou  
+In Neural Information Processing Systems, 2020. (the first two authors contributed equally)
 
 [Thompson Sampling via Local Uncertainty](https://arxiv.org/abs/1910.13673)  
 Zhendong Wang and Mingyuan Zhou.  
